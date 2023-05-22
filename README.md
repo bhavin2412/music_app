@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-| ![](screenshots/screen1.png) | ![](screenshots/screen2.png) | ![](screenshots/screen3.png)|
+"C:\Users\Bhavin\Downloads\music-player-flutter-UI-master\music-player-flutter-UI-master\screenshots\screen1.png"
